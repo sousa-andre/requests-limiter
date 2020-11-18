@@ -3,7 +3,7 @@
 
 ![PyPi badge](https://img.shields.io/pypi/v/requests-limiter?style=for-the-badge) ![Code size badge](https://img.shields.io/github/languages/code-size/sousa-andre/requests-limiter?style=for-the-badge) ![License badge](https://img.shields.io/github/license/sousa-andre/requests-limiter?style=for-the-badge)
  
-Have fun using third-parties REST APIs without have to worry about rate limiting. 
+Have fun using third-parties REST APIs without have to worry about implementing the rate limiter logic. 
  
 ## Download
     $ pip install requests-limiter 
